@@ -1,4 +1,4 @@
-package com.github;
+1package com.github;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
